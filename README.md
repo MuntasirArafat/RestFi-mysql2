@@ -9,7 +9,7 @@
 - **Fast Development:** Quickly set up a backend with minimal configuration.
 - **Default Authentication:** Built-in user authentication to secure your application.
 - **Middleware Support:** Easily add authentication middleware for various routes.
-- **MongoDB Integration:** Simple and straightforward MongoDB configuration.
+- **Mysql2 Integration:** Simple and straightforward MongoDB configuration.
 - **Scalable Architecture:** Designed to handle growing applications with ease.
 
 ## Installation
